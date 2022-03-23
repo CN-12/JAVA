@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ch07.PriorityALL&apos; to &apos;PriorityAll&apos;&#x0D;&#x0A;- Original project: &apos;Chapter03&apos;&#x0D;&#x0A;- Original element: &apos;ch07.PriorityALL&apos;&#x0D;&#x0A;- Renamed element: &apos;ch07.PriorityAll&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PriorityALL&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ch07{PriorityALL.java[PriorityALL" matchStrategy="1" name="PriorityAll" qualified="false" references="true" similarDeclarations="false" stamp="1637224003810" textual="false" version="1.0"/>
+</session>
